@@ -1,0 +1,15 @@
+{
+    "$schema": "https://raw.githubusercontent.com/Azure/azure-devtestlab/master/schemas/2016-11-28/dtlArtifacts.json",
+    "title": "Podman",
+    "publisher": "Fabrice Krebs",
+    "description": "Install podman on Linux",
+    "tags": [
+        "Podman",
+        "Linux"
+    ],
+    "iconUri": "https://raw.githubusercontent.com/fabricekrebs/devtestlab/master/artifacts/linux-install-podman/podman.png",
+    "targetOsType": "Linux",
+    "runCommand": {
+        "commandToExecute": "['sh linux_install_podman.sh']"
+    }
+}
