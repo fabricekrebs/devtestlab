@@ -1,0 +1,8 @@
+
+{
+    "itemDisplayName": "[Custom] Web App with PostgreSQL",
+    "description": "This template creates an Azure Web App with PostgreSQL.",
+    "githubUsername": "fabricekrebs",
+    "summary": "Deploys an Azure Web App with a PostgreSQL instance as an environment in a DevTest Lab."
+  }
+  
