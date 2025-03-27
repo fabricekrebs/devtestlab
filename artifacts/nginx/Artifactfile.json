@@ -1,0 +1,14 @@
+{
+    "$schema": "https://raw.githubusercontent.com/Azure/azure-devtestlab/master/schemas/2016-11-28/dtlArtifacts.json",
+    "title": "Nginx",
+    "publisher": "Fabrice Krebs",
+    "description": "Install Nginx on Linux machine",
+    "tags": [
+        "Nginx",
+        "Linux"
+    ],
+    "targetOsType": "Linux",
+    "runCommand": {
+        "commandToExecute": "['bash linux-install-nginx.sh']"
+    }
+}
