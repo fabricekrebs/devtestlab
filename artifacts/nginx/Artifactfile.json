@@ -7,6 +7,7 @@
         "Nginx",
         "Linux"
     ],
+    "iconUri": "https://iconape.com/wp-content/files/qd/83731/png/nginx-1.png",
     "targetOsType": "Linux",
     "runCommand": {
         "commandToExecute": "['bash linux-install-nginx.sh']"
